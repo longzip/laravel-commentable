@@ -1,7 +1,7 @@
 {
     "name": "longzip/commentable",
     "description": ":package_description",
-    "license": "license",
+    "license": "MIT",
     "authors": [
         {
             "name": "longzip",
